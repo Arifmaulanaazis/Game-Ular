@@ -1,5 +1,7 @@
 # **Game Ular**  
-![Icon](icon.png)
+<p align="center">
+  <img src="icon.png" alt="Game Ular Icon" width="300" height="300" style="object-fit: cover;">
+</p>
 
 ## Deskripsi Aplikasi  
 **Game Ular** adalah sebuah permainan klasik ular yang dibangun menggunakan Python dengan framework PyQt5. Pemain mengendalikan seekor ular yang harus mengumpulkan makanan sambil menghindari tabrakan dengan dinding atau rintangan. Skor pemain akan meningkat setiap kali ular berhasil memakan makanan, dan permainan akan berakhir jika ular menabrak dirinya sendiri atau rintangan.
@@ -13,7 +15,7 @@ Pastikan Anda telah menginstal **Python** atau **Anaconda** sebelum menjalankan 
 1. Clone repository ini ke komputer Anda:
    ```bash
    git clone https://github.com/Arifmaulanaazis/Game-Ular.git
-   cd your-repo-name
+   cd Game-Ular
    ```
 
 2. Install semua library yang diperlukan menggunakan `pip`:
