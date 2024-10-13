@@ -11,6 +11,9 @@
   <img src="image.png" alt="Game Ular Screenshoot" width="400" height="400" style="object-fit: cover;">
 </p>
 
+## Download Prebuild Game  
+Anda dapat mengunduh versi prebuild untuk windows terbaru aplikasi **Game Ular** di halaman [Releases](https://github.com/Arifmaulanaazis/Game-Ular/releases).
+
 ## Preinstalasi  
 Pastikan Anda telah menginstal **Python** atau **Anaconda** sebelum menjalankan aplikasi ini:  
 - [Download Python](https://www.python.org/downloads/)  
