@@ -6,6 +6,11 @@
 ## Deskripsi Aplikasi  
 **Game Ular** adalah sebuah permainan klasik ular yang dibangun menggunakan Python dengan framework PyQt5. Pemain mengendalikan seekor ular yang harus mengumpulkan makanan sambil menghindari tabrakan dengan dinding atau rintangan. Skor pemain akan meningkat setiap kali ular berhasil memakan makanan, dan permainan akan berakhir jika ular menabrak dirinya sendiri atau rintangan.
 
+## Screenshoot
+<p align="center">
+  <img src="image.png" alt="Game Ular Screenshoot" width="400" height="400" style="object-fit: cover;">
+</p>
+
 ## Preinstalasi  
 Pastikan Anda telah menginstal **Python** atau **Anaconda** sebelum menjalankan aplikasi ini:  
 - [Download Python](https://www.python.org/downloads/)  
